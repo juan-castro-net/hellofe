@@ -11,16 +11,26 @@ Currently, two official plugins are available:
 a) Download and unzip the source code.
 
 git clone https://github.com/juan-castro-net/hellofe.git
+
 cd hellofe
+
 nvm use 18.17.1
+
 npm install
+
 npm install @mui/material @emotion/react @emotion/styled
+
 npm install @mui/material @mui/styled-engine-sc styled-components
+
 npm install @mui/icons-material
+
 npm install axios
 
 b) Test the ReactJS MUI application:
+
 npm run dev
+
 Open a web browser: http://localhost:5173
+
 
 
